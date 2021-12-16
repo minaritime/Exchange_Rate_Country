@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choice">
+        <item>외화살때</item>
+        <item>외화팔때</item>
+        <item>외화송금</item>
+    </string-array>
+</resources>
